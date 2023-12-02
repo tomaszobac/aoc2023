@@ -1,3 +1,5 @@
+package day1
+
 import java.io.File
 
 fun part1(file: File) {
@@ -56,7 +58,7 @@ fun part2(file: File) {
 }
 
 fun main() {
-    val file = File("${System.getProperty("user.home")}\\Downloads\\input.txt")
+    val file = File("src/main/kotlin/day1/input.txt")
 
     part1(file)
     part2(file)
