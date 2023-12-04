@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53c67f18-21d4-4334-a64b-545bccb0c87f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/Day2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/Day1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day2.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="package-info" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -49,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tom/Documents/aoc2023&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tom/Documents/aoc2023/src/main/kotlin/day3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,25 +56,13 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tom\Documents\aoc2023\src\main\kotlin\day3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tom\Documents\aoc2023\src\main\kotlin\Day1" />
       <recent name="C:\Users\Tom\Documents\aoc2023\src\main\kotlin\Day2" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Day2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Day2Kt" />
-      <module name="aoc2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin.Day2Kt" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -94,7 +78,12 @@
       <workItem from="1701541363425" duration="13000" />
       <workItem from="1701541407259" duration="59000" />
       <workItem from="1701542223304" duration="3203000" />
-      <workItem from="1701559236892" duration="1168000" />
+      <workItem from="1701559236892" duration="1315000" />
+      <workItem from="1701581668550" duration="7664000" />
+      <workItem from="1701619241377" duration="3376000" />
+      <workItem from="1701645293703" duration="2777000" />
+      <workItem from="1701648750040" duration="316000" />
+      <workItem from="1701649069381" duration="4279000" />
     </task>
     <servers />
   </component>
